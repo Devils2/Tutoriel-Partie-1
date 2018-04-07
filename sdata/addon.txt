@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Data2" 
+	"version"			"1.2"
+	"author_name"		"Devils_monkey"
+	"author_email"		"anonyme@gmail.com"
+	"author_url"		"www.org"
+	"info"				"Data players"
+}
+
+
